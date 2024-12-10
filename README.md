@@ -5,10 +5,10 @@
 
 ### 1. **Excel Basics (Beginner Level)**
 
-- []  **Excel Interface and Navigation**
+- [x]  **Excel Interface and Navigation**
 - [x]  **Cells, Rows, Columns**
 - [ ]  **Basic Formatting (font, color, cell styles)**
-- [ x ]  **Basic Formulas: SUM, AVERAGE, MIN, MAX**
+- [ ]  **Basic Formulas: SUM, AVERAGE, MIN, MAX**
 - [ ]  **Text Functions: CONCATENATE, LEFT, RIGHT, MID**
 
 **YouTube Search Topics:**
