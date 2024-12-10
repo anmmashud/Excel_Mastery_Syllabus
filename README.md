@@ -1,15 +1,14 @@
-# Excel_Mastery_Syllabus
+# Excel Mastery Syllabus
+
  An extensive Excel Mastery Syllabus covering all levels from basics to advanced techniques. This repository serves as a structured guide for learning Excel, including formulas, data analysis, dashboard creation, macros, VBA, and more. Ideal for anyone aiming to become an Excel expert.
 
 
-# Excel Mastery Syllabus
-
 ### 1. **Excel Basics (Beginner Level)**
 
-- [ ]  **Excel Interface and Navigation**
-- [ ]  **Cells, Rows, Columns**
+- []  **Excel Interface and Navigation**
+- [x]  **Cells, Rows, Columns**
 - [ ]  **Basic Formatting (font, color, cell styles)**
-- [ ]  **Basic Formulas: SUM, AVERAGE, MIN, MAX**
+- [ x ]  **Basic Formulas: SUM, AVERAGE, MIN, MAX**
 - [ ]  **Text Functions: CONCATENATE, LEFT, RIGHT, MID**
 
 **YouTube Search Topics:**
